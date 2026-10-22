@@ -27,7 +27,7 @@ In most cases, alternatives have already been provided and are listed int the Fu
 
 | Name | Language | Version | Linux base | Watchdog | Link
 |:-----|:---------|:--------|:-----------|:---------|:----
-| go | Go | 1.23 | Alpine Linux | classic | [Legacy Go template (deprecated)](https://github.com/openfaas/templates/tree/master/template/go)
+| go | Go | 1.27 | Alpine Linux | classic | [Legacy Go template (deprecated)](https://github.com/openfaas/templates/tree/master/template/go)
 | bun-express | Bun | 1.0 | Alpine Linux | of-watchdog | [NodeJS template](https://github.com/openfaas/templates/tree/master/template/bun-express)
 | node | NodeJS | 20 | Alpine Linux | classic | [Legacy NodeJS template (deprecated)](https://github.com/openfaas/templates/tree/master/template/node)
 | python3 | Python | 3 | Alpine Linux | classic | [Legacy Python 3 template](https://github.com/openfaas/templates/tree/master/template/python3)
