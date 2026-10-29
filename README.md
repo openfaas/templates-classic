@@ -29,7 +29,7 @@ In most cases, alternatives have already been provided and are listed int the Fu
 |:-----|:---------|:--------|:-----------|:---------|:----
 | go | Go | 1.27 | Alpine Linux | classic | [Legacy Go template (deprecated)](https://github.com/openfaas/templates/tree/master/template/go)
 | bun-express | Bun | 1.0 | Alpine Linux | of-watchdog | [NodeJS template](https://github.com/openfaas/templates/tree/master/template/bun-express)
-| node | NodeJS | 20 | Alpine Linux | classic | [Legacy NodeJS template (deprecated)](https://github.com/openfaas/templates/tree/master/template/node)
+| node | NodeJS | 26 | Alpine Linux | classic | [Legacy NodeJS template (deprecated)](https://github.com/openfaas/templates/tree/master/template/node)
 | python3 | Python | 3 | Alpine Linux | classic | [Legacy Python 3 template](https://github.com/openfaas/templates/tree/master/template/python3)
 | python3-debian | Python | 3 | Debian Linux | classic | [Legacy Python 3 Debian template](https://github.com/openfaas/templates/tree/master/template/python3-debian)
 | python27 | Python | 2.7.18 | Alpine Linux | classic | [Python 2.7 template (deprecated)](https://github.com/openfaas/templates/tree/master/template/python27)
