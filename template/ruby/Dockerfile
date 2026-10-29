@@ -1,5 +1,5 @@
 FROM --platform=${TARGETPLATFORM:-linux/amd64} ghcr.io/openfaas/classic-watchdog:0.3.11 AS watchdog
-FROM --platform=${TARGETPLATFORM:-linux/amd64} ruby:3.3.6-alpine
+FROM --platform=${TARGETPLATFORM:-linux/amd64} ruby:3.4.12-alpine
 
 ARG TARGETPLATFORM
 ARG BUILDPLATFORM

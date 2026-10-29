@@ -31,7 +31,7 @@
         "platform": "x86_64",
         "language": "Ruby",
         "source": "openfaas",
-        "description": "Classic Ruby 3.3.6 template",
+        "description": "Classic Ruby 3.4.12 template",
         "repo": "https://github.com/openfaas/templates-classic",
         "official": "true"
     }

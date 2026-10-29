@@ -33,7 +33,7 @@ In most cases, alternatives have already been provided and are listed int the Fu
 | python3 | Python | 3 | Alpine Linux | classic | [Legacy Python 3 template](https://github.com/openfaas/templates/tree/master/template/python3)
 | python3-debian | Python | 3 | Debian Linux | classic | [Legacy Python 3 Debian template](https://github.com/openfaas/templates/tree/master/template/python3-debian)
 | python27 | Python | 2.7.18 | Alpine Linux | classic | [Python 2.7 template (deprecated)](https://github.com/openfaas/templates/tree/master/template/python27)
-| ruby | Ruby | 3.3 | Alpine Linux | classic| [Ruby template](https://github.com/openfaas/templates/tree/master/template/ruby)
+| ruby | Ruby | 3.4 | Alpine Linux | classic| [Ruby template](https://github.com/openfaas/templates/tree/master/template/ruby)
 | csharp | C# | N/A | Debian GNU/Linux 9 | classic | [Legacy C# template (deprecated)](https://github.com/openfaas/templates/tree/master/template/csharp)
 
 
